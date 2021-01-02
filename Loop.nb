@@ -1,0 +1,173 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      6007,        165]
+NotebookOptionsPosition[      3481,        109]
+NotebookOutlinePosition[      4999,        146]
+CellTagsIndexPosition[      4924,        141]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", 
+   RowBox[{
+    RowBox[{"https", ":"}], "//", 
+    RowBox[{
+     RowBox[{
+      RowBox[{
+       RowBox[{"reference", ".", "wolfram", ".", "com"}], "/", "language"}], 
+      "/", "ref"}], "/", 
+     RowBox[{"For", ".", "html"}]}]}], "*)"}], "\[IndentingNewLine]", 
+  RowBox[{"For", "[", 
+   RowBox[{
+    RowBox[{"i", "=", "0"}], ",", "\[IndentingNewLine]", "\t", 
+    RowBox[{"i", "<", "4"}], ",", "\[IndentingNewLine]", "\t", 
+    RowBox[{"i", "++"}], ",", "\[IndentingNewLine]", "\t", 
+    RowBox[{
+     RowBox[{"Print", "[", "i", "]"}], " ", ";", "   ", 
+     RowBox[{"(*", "action", "*)"}], "\[IndentingNewLine]", "\t", 
+     RowBox[{"Print", "[", 
+      RowBox[{"i", "^", "2"}], "]"}]}]}], "  ", 
+   RowBox[{"(*", "action", "*)"}], "\[IndentingNewLine]", "]"}]}]], "Input",
+ CellChangeTimes->{{3.815756613685449*^9, 3.81575670477761*^9}, {
+  3.815756937250558*^9, 3.815756969498333*^9}},
+ CellTags->
+  "For_templates",ExpressionUUID->"652d6a41-3c9c-43bc-9c9b-81fd78f9450e"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["0"], "Print",
+ CellChangeTimes->{{3.815756955355462*^9, 3.8157569646172*^9}},
+ CellTags->"For_templates",
+ CellLabel->
+  "During evaluation of \
+In[13]:=",ExpressionUUID->"04b4e27c-7f27-4c3c-a63a-e7b76278a603"],
+
+Cell[BoxData["0"], "Print",
+ CellChangeTimes->{{3.815756955355462*^9, 3.815756964622208*^9}},
+ CellTags->"For_templates",
+ CellLabel->
+  "During evaluation of \
+In[13]:=",ExpressionUUID->"12da2139-8f95-4632-bd26-c17f895b5f39"],
+
+Cell[BoxData["1"], "Print",
+ CellChangeTimes->{{3.815756955355462*^9, 3.8157569646333375`*^9}},
+ CellTags->"For_templates",
+ CellLabel->
+  "During evaluation of \
+In[13]:=",ExpressionUUID->"2106172d-8cc8-418f-9769-6de03473d378"],
+
+Cell[BoxData["1"], "Print",
+ CellChangeTimes->{{3.815756955355462*^9, 3.81575696463634*^9}},
+ CellTags->"For_templates",
+ CellLabel->
+  "During evaluation of \
+In[13]:=",ExpressionUUID->"04cdc68e-eb20-491f-b101-f087ce0425a0"],
+
+Cell[BoxData["2"], "Print",
+ CellChangeTimes->{{3.815756955355462*^9, 3.815756964640339*^9}},
+ CellTags->"For_templates",
+ CellLabel->
+  "During evaluation of \
+In[13]:=",ExpressionUUID->"deadca0c-fb68-4e0d-beee-d07954d69042"],
+
+Cell[BoxData["4"], "Print",
+ CellChangeTimes->{{3.815756955355462*^9, 3.815756964643338*^9}},
+ CellTags->"For_templates",
+ CellLabel->
+  "During evaluation of \
+In[13]:=",ExpressionUUID->"41cda973-190d-4666-ba0e-ea1b1b10bb26"],
+
+Cell[BoxData["3"], "Print",
+ CellChangeTimes->{{3.815756955355462*^9, 3.815756964646339*^9}},
+ CellTags->"For_templates",
+ CellLabel->
+  "During evaluation of \
+In[13]:=",ExpressionUUID->"426677ba-0d8e-4fd2-aa48-0a3af8f4c325"],
+
+Cell[BoxData["9"], "Print",
+ CellChangeTimes->{{3.815756955355462*^9, 3.8157569646523457`*^9}},
+ CellTags->"For_templates",
+ CellLabel->
+  "During evaluation of \
+In[13]:=",ExpressionUUID->"7e4a7c49-05fd-4cbc-942d-8637551c21a3"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{759, 827},
+WindowMargins->{{-1134, Automatic}, {55, Automatic}},
+FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{
+ "For_templates"->{
+  Cell[580, 22, 1018, 25, 143, "Input",ExpressionUUID->"652d6a41-3c9c-43bc-9c9b-81fd78f9450e",
+   CellTags->"For_templates"],
+  Cell[1623, 51, 224, 5, 22, "Print",ExpressionUUID->"04b4e27c-7f27-4c3c-a63a-e7b76278a603",
+   CellTags->"For_templates"],
+  Cell[1850, 58, 226, 5, 22, "Print",ExpressionUUID->"12da2139-8f95-4632-bd26-c17f895b5f39",
+   CellTags->"For_templates"],
+  Cell[2079, 65, 228, 5, 22, "Print",ExpressionUUID->"2106172d-8cc8-418f-9769-6de03473d378",
+   CellTags->"For_templates"],
+  Cell[2310, 72, 225, 5, 22, "Print",ExpressionUUID->"04cdc68e-eb20-491f-b101-f087ce0425a0",
+   CellTags->"For_templates"],
+  Cell[2538, 79, 226, 5, 22, "Print",ExpressionUUID->"deadca0c-fb68-4e0d-beee-d07954d69042",
+   CellTags->"For_templates"],
+  Cell[2767, 86, 226, 5, 22, "Print",ExpressionUUID->"41cda973-190d-4666-ba0e-ea1b1b10bb26",
+   CellTags->"For_templates"],
+  Cell[2996, 93, 226, 5, 22, "Print",ExpressionUUID->"426677ba-0d8e-4fd2-aa48-0a3af8f4c325",
+   CellTags->"For_templates"],
+  Cell[3225, 100, 228, 5, 22, "Print",ExpressionUUID->"7e4a7c49-05fd-4cbc-942d-8637551c21a3",
+   CellTags->"For_templates"]}
+ }
+*)
+(*CellTagsIndex
+CellTagsIndex->{
+ {"For_templates", 3781, 119}
+ }
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 1018, 25, 143, "Input",ExpressionUUID->"652d6a41-3c9c-43bc-9c9b-81fd78f9450e",
+ CellTags->"For_templates"],
+Cell[CellGroupData[{
+Cell[1623, 51, 224, 5, 22, "Print",ExpressionUUID->"04b4e27c-7f27-4c3c-a63a-e7b76278a603",
+ CellTags->"For_templates"],
+Cell[1850, 58, 226, 5, 22, "Print",ExpressionUUID->"12da2139-8f95-4632-bd26-c17f895b5f39",
+ CellTags->"For_templates"],
+Cell[2079, 65, 228, 5, 22, "Print",ExpressionUUID->"2106172d-8cc8-418f-9769-6de03473d378",
+ CellTags->"For_templates"],
+Cell[2310, 72, 225, 5, 22, "Print",ExpressionUUID->"04cdc68e-eb20-491f-b101-f087ce0425a0",
+ CellTags->"For_templates"],
+Cell[2538, 79, 226, 5, 22, "Print",ExpressionUUID->"deadca0c-fb68-4e0d-beee-d07954d69042",
+ CellTags->"For_templates"],
+Cell[2767, 86, 226, 5, 22, "Print",ExpressionUUID->"41cda973-190d-4666-ba0e-ea1b1b10bb26",
+ CellTags->"For_templates"],
+Cell[2996, 93, 226, 5, 22, "Print",ExpressionUUID->"426677ba-0d8e-4fd2-aa48-0a3af8f4c325",
+ CellTags->"For_templates"],
+Cell[3225, 100, 228, 5, 22, "Print",ExpressionUUID->"7e4a7c49-05fd-4cbc-942d-8637551c21a3",
+ CellTags->"For_templates"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
